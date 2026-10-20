@@ -1,0 +1,2 @@
+# Block direct browser access to the includes folder (Apache 2.4)
+Require all denied
